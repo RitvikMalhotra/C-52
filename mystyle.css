@@ -1,0 +1,7 @@
+#section{color:#0040FF; border:solid; border-color:green; margin:10px; padding-left:10px}
+#interestsPDiv{color:#FF4B4B}
+#interestsHeaderDiv{color:#FF00BF}
+#interests{border:solid; border-color:#4BFFFF; margin:10px; padding-left:10px}
+.grid{display:flex;flex-wrap:wrap;justify-content:space-evenly; border:solid; border-color:#FFDA2F; color:#7068FF}
+h2{color:#A54BFF}
+#gamesDesignedDiv{margin:10px; padding-left:10px; border:solid; border-color:#FF9C2A}
